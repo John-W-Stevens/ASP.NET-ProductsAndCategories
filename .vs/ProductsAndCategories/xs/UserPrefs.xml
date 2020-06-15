@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{20880EB6-1827-4DC0-B574-4B12CA7F7749}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="108" Column="1" />
+      <File FileName="Views/Home/Products.cshtml" Line="20" Column="57" />
+      <File FileName="Views/Home/GetAllProductsPartial.cshtml" Line="7" Column="29" />
+      <File FileName="Models/Association.cs" Line="1" Column="1" />
+      <File FileName="Views/Home/ViewProduct.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Home/EditCategoryForm.cshtml" Line="41" Column="44" />
+      <File FileName="Views/Home/GetAllCategoriesPartial.cshtml" Line="7" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductsAndCategories" expanded="True">
+            <Node name="ProductsAndCategories" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProductsAndCategories PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

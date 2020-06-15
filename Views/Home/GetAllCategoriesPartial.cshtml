@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "All Products";
+}
+
+@foreach (Category category in ViewBag.AllCategories)
+{
+    string url = $"/categories/{category.CategoryId}";
+    <p class="big-font"><a href=@url>@category.Name</a></p>
+}
+
+
+
+
+
+
+

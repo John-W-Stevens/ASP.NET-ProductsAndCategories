@@ -1,0 +1,26 @@
+@{
+    ViewData["Title"] = "All Categories";
+}
+
+<div class="row">
+    <div class="col-6 text-center">
+        <h1>New Category</h1>
+    </div>
+    <div class="col-6 text-center">
+        <h1>Existing Categories</h1>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-6">
+        <partial name="CreateCategoryPartial"></partial>
+    </div>
+    <div class="col-6 text-center">
+        <partial name="GetAllCategoriesPartial"></partial>
+    </div>
+</div>
+
+
+
+

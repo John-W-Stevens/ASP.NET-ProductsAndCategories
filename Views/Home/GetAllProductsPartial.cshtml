@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "All Products";
+}
+
+@foreach (Product product in ViewBag.AllProducts)
+{
+    string url = $"/products/{product.ProductId}";
+    <p class="big-font"><a href=@url>@product.Name</a></p>
+}
+
+
+
+
+
+
+
